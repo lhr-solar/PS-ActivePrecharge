@@ -1,0 +1,16 @@
+.TPS74533PCQWDRVRQ1 :1 ;LDO Voltage Regulators Automotive 500-mA, low-IQ, high-PSRR,&nbsp;low-dropout (LDO) voltage regulator with power good</p 6-WSON -40 to 125
+SON65P200X200X80-7N
+*STM IC
+*NGS
+*PLB 1="OUT" 2="NC" 3="GND" 4="EN" 5="PG" 6="IN" 7="EP"
+*MXP 7
+*DFN TPS74533PCQWDRVRQ1
+~!Mouser Part Number (595-S74533PCQWDRVRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS74533PCQWDRVRQ1?qs=%252B6g0mu59x7JbJkoA8apsGg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS74533PCQWDRVRQ1)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tps745-q1.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1682067521580&ref_url=https%253A%252F%252Fwww.mouser.co.il%252F)
+~!Height (0.8mm)
+~!3D_Model (TPS74533PCQWDRVRQ1)
+TPS74533PCQWDRVRQ1
+1.1!U 2.1!U 3.1!U 7.1!U 6.1!U 5.1!U 4.1!U 

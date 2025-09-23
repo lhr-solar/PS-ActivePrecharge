@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_19247305"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-02-08-04:12:40)
+    (utime 2025-02-08-04:12:40)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "RSX068MP2STR")
+)
+
+
+(pinAssign "ECS_19247305"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-02-08-04:12:40)
+    (utime 2025-02-08-04:12:40)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_19247305")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RSX068MP2STR")
+)
+
+
+(part "RSX068MP2STR"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-02-08-04:12:40)
+    (utime 2025-02-08-04:12:40)
+    (packageRef "RSX068MP2STR")
+    (pinAssignRef "ECS_19247305")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Schottky Diodes &RSX068MP2STR Rectifiers SCHOTTKY DIODE 200V 2A")
+    (property "Mouser_Part_Number" "755-RSX068MP2STR")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RSX068MP2STR?qs=Y0Uzf4wQF3mHCy1rcjsvrw%3D%3D")
+    (property "Manufacturer_Name" "ROHM Semiconductor")
+    (property "Manufacturer_Part_Number" "RSX068MP2STR")
+    (property "Datasheet_Link" "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rsx068mp2str-e.pdf")
+    (property "compAreaTopHeight" 1.1)
+)
+
+

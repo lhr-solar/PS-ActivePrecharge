@@ -1,0 +1,16 @@
+.RSX068MP2STR :1 ;Schottky Diodes &RSX068MP2STR Rectifiers SCHOTTKY DIODE 200V 2A
+RSX068MP2STR
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN RSX068MP2STR
+~!Mouser Part Number (755-RSX068MP2STR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RSX068MP2STR?qs=Y0Uzf4wQF3mHCy1rcjsvrw%3D%3D)
+~!Manufacturer_Name (ROHM Semiconductor)
+~!Manufacturer_Part_Number (RSX068MP2STR)
+~!Link Datasheet (https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rsx068mp2str-e.pdf)
+~!Height (1.1mm)
+~!3D_Model (RSX068MP2STR)
+RSX068MP2STR
+1.1!U 2.1!U 

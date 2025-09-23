@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ActivePrecharge-RevB")(type "KiCad")(uri "C:/Users/gavin/Documents/LHRs GitHub/PS-ActivePrecharge/Parts/footprints.pretty")(options "")(descr ""))
+)

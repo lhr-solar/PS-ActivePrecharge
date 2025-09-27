@@ -3,7 +3,7 @@
 
 # Temporary files
 *.000
-.bak
+*.bak
 *.bck
 *.kicad_pcb-bak
 *.kicad_sch-bak
@@ -16,6 +16,9 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+~*.lck
+\#auto_saved_files#
+*.log
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -28,5 +31,11 @@ fp-info-cache
 *.xml
 *.csv
 
+#Mac Specific
+.DS_Store
 
-ActivePrecharge-backups/*
+# JLCPCB Production Files
+Production/
+
+# Backups
+*-backups/*

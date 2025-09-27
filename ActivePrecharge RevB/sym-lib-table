@@ -11,5 +11,5 @@
   (lib (name "ISO-DCDC")(type "KiCad")(uri "C:/Users/gavin/Documents/LHRs GitHub/PS-ActivePrecharge/Parts/RM_3_305S/RM-3.305S.kicad_sym")(options "")(descr ""))
   (lib (name "LDO")(type "KiCad")(uri "C:/Users/gavin/Documents/LHRs GitHub/PS-ActivePrecharge/Parts/LIB_TPS74533PCQWDRVRQ1/TPS74533PCQWDRVRQ1/KiCad/TPS74533PCQWDRVRQ1.kicad_sym")(options "")(descr ""))
   (lib (name "LDO1")(type "KiCad")(uri "C:/Users/gavin/Documents/LHRs GitHub/PS-ActivePrecharge/Parts/LT1963AEST-3.3#TRPBF/LT1963AEST-3.3_TRPBF.kicad_sym")(options "")(descr ""))
-  (lib (name "2G5-OPAMP")(type "KiCad")(uri "C:/Users/gavin/Documents/LHRs GitHub/PS-ActivePrecharge/Parts/TLV9001IDBVR/TLV9001IDBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "2G5-OPAMP")(type "KiCad")(uri "C:/Users/gavin/Documents/LHRs GitHub/PS-ActivePrecharge/Parts/TLV9001IDBVR/KiCADv6/2025-09-27_16-39-43.kicad_sym")(options "")(descr ""))
 )

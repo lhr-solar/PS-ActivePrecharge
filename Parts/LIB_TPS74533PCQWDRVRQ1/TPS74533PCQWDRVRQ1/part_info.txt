@@ -1,9 +1,0 @@
-Manufacturer=Texas Instruments
-PartNumber=TPS74533PCQWDRVRQ1
-PartCategory=Integrated Circuit
-PackageCategory=Small Outline No-lead
-PinCount=7
-Version=1.1
-Released=2023-04-21 10:56:17
-Downloaded=2025-09-23 04:18:37
-3D=Y

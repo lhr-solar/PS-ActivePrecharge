@@ -8,7 +8,7 @@
   (lib (name "PRECHARGE-R")(type "KiCad")(uri "C:/Users/gavin/Documents/LHRs GitHub/PS-ActivePrecharge/Parts/PWR263S_35_3300F/PWR263S-35-3300F.kicad_sym")(options "")(descr ""))
   (lib (name "DIODE")(type "KiCad")(uri "C:/Users/gavin/Documents/LHRs GitHub/PS-ActivePrecharge/Parts/LIB_RSX068MP2STR/RSX068MP2STR/KiCad/RSX068MP2STR.kicad_sym")(options "")(descr ""))
   (lib (name "ISO-DCDC")(type "KiCad")(uri "C:/Users/gavin/Documents/LHRs GitHub/PS-ActivePrecharge/Parts/RM_3_305S/RM-3.305S.kicad_sym")(options "")(descr ""))
-  (lib (name "LDO")(type "KiCad")(uri "C:/Users/gavin/Documents/LHRs GitHub/PS-ActivePrecharge/Parts/LT1963AEST-3.3#TRPBF/LT1963AEST-3.3_TRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "LDO")(type "KiCad")(uri "${KIPRJMOD}/Parts/LT1963AEST-3.3#TRPBF/LT1963AEST-3.3_TRPBF.kicad_sym")(options "")(descr ""))
   (lib (name "OP-AMP")(type "KiCad")(uri "C:/Users/gavin/Documents/LHRs GitHub/PS-ActivePrecharge/Parts/TLV9001IDBVR/KiCADv6/2025-09-27_16-39-43.kicad_sym")(options "")(descr ""))
   (lib (name "CAP-10UF")(type "KiCad")(uri "${KIPRJMOD}/Parts/LIB_MSASE168BB5106MTNA01/MSASE168BB5106MTNA01/KiCad/MSASE168BB5106MTNA01.kicad_sym")(options "")(descr ""))
   (lib (name "ISO-AMP")(type "KiCad")(uri "${KIPRJMOD}/Parts/LIB_AMC1350DWVR/AMC1350DWVR/KiCad/AMC1350DWVR.kicad_sym")(options "")(descr ""))

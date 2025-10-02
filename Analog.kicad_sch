@@ -2859,7 +2859,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "52a5b1f8-01ee-4fa8-9296-fa062ee2b15b")
+			(uuid "2ed9a05b-b063-4c26-aadd-0db77e319642")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -2934,10 +2934,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "0368ac4f-65ad-45fa-968c-a098835f4be6")
+			(uuid "e57ffa2a-c54c-4856-8faf-ca8c7b674859")
 		)
 		(pin "1"
-			(uuid "6db40a7e-adfc-4d29-9355-38a6a2b068d9")
+			(uuid "f99556d4-4352-4bd0-871a-8bd00c2d16ce")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -3013,10 +3013,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "d51de0e1-e329-4384-bd22-7a3744f698ad")
+			(uuid "d03fc536-bfd1-4cac-bddf-63be96d08c60")
 		)
 		(pin "1"
-			(uuid "bf0df551-9195-480a-8310-d25506f8d9cf")
+			(uuid "9ceed0c3-c68b-477e-b86d-f53be77ee908")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -3091,10 +3091,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "0a24152f-2aaf-468f-ac5e-5cea59b7ddf3")
+			(uuid "064d668b-ef2a-46ea-9682-c790a9a274ce")
 		)
 		(pin "1"
-			(uuid "5cbb9267-4a18-4682-a63e-ca5533ed5532")
+			(uuid "0beacdd1-ec74-48f8-a1b5-c0d8a817e157")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -3161,7 +3161,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0b71a2fb-eaf5-421a-81e1-fdf30f8e0dfd")
+			(uuid "bac2486d-7cbd-4a48-95a1-370e530ca6e0")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -3237,10 +3237,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "88a828f1-0f11-4f8b-a118-0057d37bb7d4")
+			(uuid "798d1412-3fd0-44e9-9284-c1a6c7fd535f")
 		)
 		(pin "1"
-			(uuid "65124273-d2d6-4023-ba3e-e236e741b1fe")
+			(uuid "906ff0a4-61d7-4a4a-aaa3-44930b69579e")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -3307,7 +3307,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "86c92ac0-5d42-4114-ab4c-d0869071dddb")
+			(uuid "57a40a15-45f4-4a50-9a12-7b9bcd4784c9")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -3374,7 +3374,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1d39fd7c-80f9-4a5d-8038-869579037225")
+			(uuid "9a61f7d4-fc69-4a6e-be34-2663590c937f")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -3439,7 +3439,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8a82b60b-d9b9-4e74-b465-c3b2832cd02f")
+			(uuid "b05c7aed-3764-4f76-98bc-d65fdd89cb7e")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -3515,10 +3515,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "2c38c2bf-5e66-47b4-a02d-8f773a1d2ab1")
+			(uuid "c112ac8a-e65b-44f9-8387-275f8943a108")
 		)
 		(pin "1"
-			(uuid "be8fd9f2-7130-488f-b170-2750fdc39e34")
+			(uuid "f15336d3-2af0-49a0-851d-3d369495e302")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -3585,7 +3585,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7b9c3d29-6aca-458c-8605-714663461087")
+			(uuid "5a7f5bbd-6e62-4ef4-bf6f-1eba51901c8c")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -3650,7 +3650,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "a6c0325e-6062-4daa-ae0b-4ffe947584e8")
+			(uuid "80a598f1-8d10-4cee-9121-07bb04bc845b")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -3768,28 +3768,28 @@
 			)
 		)
 		(pin "6"
-			(uuid "7dec6c98-b567-4d7a-9a68-ce0e62a0dfbd")
+			(uuid "06532a0f-64c2-47ce-9ae6-55605de862f1")
 		)
 		(pin "1"
-			(uuid "c036a4f1-eb74-4b26-be25-dc1b3b9a09b3")
+			(uuid "04ec3a19-6a88-40f7-8aa5-9935af5b404a")
 		)
 		(pin "2"
-			(uuid "57f15fc6-c321-445e-bece-37066c266188")
+			(uuid "dfff37eb-34c5-4edc-a19a-4b4d2d502243")
 		)
 		(pin "5"
-			(uuid "ec32bcd0-c50e-4a21-b3d2-ab5e7058e50e")
+			(uuid "cca14d75-09c8-4123-9cbd-671e72748a3b")
 		)
 		(pin "8"
-			(uuid "14364ce1-f7c2-4ec1-a1b6-6628f7688ce1")
+			(uuid "562b6312-da78-4727-bc08-90c6f3a0b4a8")
 		)
 		(pin "4"
-			(uuid "4b7eddb7-fb61-467d-98a6-1ad4313db062")
+			(uuid "6616defe-9382-43fb-bc23-5d2340a5092e")
 		)
 		(pin "3"
-			(uuid "4df347eb-ec86-451c-81d7-9c566ff552a5")
+			(uuid "7527a7dd-a8e8-4225-be4c-7bf6b8592354")
 		)
 		(pin "7"
-			(uuid "769214fc-1985-48f9-8f9d-b30dfe3b5e38")
+			(uuid "d3480526-900c-4882-bdfd-505fdceda729")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -3856,7 +3856,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3b85be52-cb8a-4db1-abcd-f1b18329a1c3")
+			(uuid "d0ba14d3-5d73-48d1-bf50-408d9b507cd5")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -3931,10 +3931,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "b810df24-5969-46cc-aeaa-90e125c61549")
+			(uuid "61b1efb7-a1a9-4d14-a3e5-cf5f288892fa")
 		)
 		(pin "1"
-			(uuid "56d4df69-1a50-4e96-b7fb-ff7d8f621f94")
+			(uuid "0150abff-263d-4997-8219-e32da577763e")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4001,7 +4001,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "32924aab-cd12-4c56-b720-e73e0db7db2c")
+			(uuid "900713c3-13c6-437c-8f11-017887983fc6")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4075,10 +4075,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "eb53d4a1-7126-429c-a613-857045309a34")
+			(uuid "f17d2929-8071-496e-b406-8de29892dded")
 		)
 		(pin "1"
-			(uuid "eee503fe-3a7f-49a4-892e-68dbf2fc7f16")
+			(uuid "3136018a-14f1-483f-8403-77885c925d52")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4154,10 +4154,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a98c19d3-1877-431c-883e-d9416c0ae65c")
+			(uuid "71b9f16c-7311-43b5-b4d2-7a2fbcfb1363")
 		)
 		(pin "1"
-			(uuid "b8386657-5f10-4ac0-b86d-d6b46caa780b")
+			(uuid "4076e3b5-5694-4448-9250-8530a5c305a2")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4224,7 +4224,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "5f15ab0f-427f-414b-8bc3-9cc14e651bfa")
+			(uuid "b39e691f-c954-4bf0-a9cd-33ed70998f1d")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4291,7 +4291,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "244d40a3-b0d9-44a4-9b96-d8062758a758")
+			(uuid "6c703b7e-ef2d-4779-a297-99c8bc937abb")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4359,19 +4359,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "802ad5eb-b11f-410a-806e-8205eced24bd")
+			(uuid "02c8b8dd-8196-4096-a420-1cce95d2bdf2")
 		)
 		(pin "5"
-			(uuid "5e450d53-aaea-4c3d-a41e-4c08f9b02f29")
+			(uuid "dc345cf0-bdcc-4c10-a437-2a5503d3d8e8")
 		)
 		(pin "4"
-			(uuid "bfdc406e-ab2b-4ead-a364-b95158736954")
+			(uuid "75651d8c-5883-4f92-b789-40e586620d8c")
 		)
 		(pin "3"
-			(uuid "f5933841-7b80-44fa-8327-f0a6c1ff6f43")
+			(uuid "ea1c7c4e-8c05-44f6-819a-2fc904a12247")
 		)
 		(pin "2"
-			(uuid "79119095-d135-425c-9bd1-8e3648a03d83")
+			(uuid "61670bcf-441b-4407-b90c-b9faa8f1e252")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4447,10 +4447,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "34bfec4e-7a49-4c3d-8d83-69bcaa693b9f")
+			(uuid "8809102c-8a7d-41f4-a325-5a8136626783")
 		)
 		(pin "1"
-			(uuid "4bc70ce2-4e7a-4974-bb6a-8295e8bf1243")
+			(uuid "3be4ca80-f1fb-4fc8-9701-3061777fa0dd")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4515,7 +4515,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f0111573-0812-416d-84c2-9013dc2973ce")
+			(uuid "79ff9dcc-a656-4ecd-b890-0824859b5d91")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4582,7 +4582,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1cb272bb-0552-4c86-b187-27eac910e7d5")
+			(uuid "31de8bf2-6519-4e24-8df1-7703a483d128")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4649,7 +4649,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "5510c7e6-76ec-424f-b98f-5db08539bd0b")
+			(uuid "9f4fed8e-1e36-4187-a44c-2d07e9058071")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4723,10 +4723,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "6b98ef96-d835-4a23-8ad7-33f444166d8b")
+			(uuid "ac2be97d-157f-4522-8ede-072f84d12229")
 		)
 		(pin "1"
-			(uuid "704c7b5d-6a0d-425e-a3b4-fc12cc5a379d")
+			(uuid "0fabe640-0ea5-4d87-b1b1-6cd4f9901b06")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4802,10 +4802,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "ad6be77c-67db-4f15-b2db-c7c85aedc240")
+			(uuid "7ebf841f-c904-4531-a3d8-63af5a47ae49")
 		)
 		(pin "1"
-			(uuid "35715799-3cd7-4a11-90c5-2617f4233da3")
+			(uuid "09087cdb-6f3d-4175-838b-6c2a43a3fb84")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4881,10 +4881,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "13c7204b-06d4-422c-aa02-c53682d2eada")
+			(uuid "0db49b82-431f-482e-a072-d7be99d11887")
 		)
 		(pin "1"
-			(uuid "eb5a2373-a84f-4c76-a903-a8c2adabe52c")
+			(uuid "b7f74285-290e-4a70-8eb9-dd9b9be3f02c")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -4951,7 +4951,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4cbd4ee3-3b77-4085-9f00-b056dadba805")
+			(uuid "ae458464-b91c-48d4-be89-1b95c41704e6")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -5027,10 +5027,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "067a8716-dce2-4965-a31e-bc6f45efb0e7")
+			(uuid "53f0be70-dfcb-4979-87a6-c0c72fee44b6")
 		)
 		(pin "1"
-			(uuid "8c2b90b9-82e8-47f6-97f5-8e45c66edde4")
+			(uuid "60f9d570-fdff-42e6-b926-a98d6cb79550")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -5096,7 +5096,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "305d883c-498b-4750-ab1f-c6b421769498")
+			(uuid "6abe3338-4605-499f-b9fa-f6f8ab5a3b85")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -5163,7 +5163,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "56466045-88e1-4fe6-937b-40498f814ebc")
+			(uuid "dd562d38-286b-4e23-ade5-03ac49becd92")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -5185,7 +5185,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95bdfbf3-cddb-49b8-820d-295f0acfb6c7")
-		(property "Reference" "U3"
+		(property "Reference" "U?"
 			(at 229.87 76.1298 0)
 			(effects
 				(font
@@ -5231,24 +5231,24 @@
 			)
 		)
 		(pin "1"
-			(uuid "0d45c305-9ee2-47fd-bff5-cb81392c8ebf")
+			(uuid "7bb47723-23c9-4fd6-99ca-d83e591dc3ae")
 		)
 		(pin "5"
-			(uuid "523f95d6-a119-45b4-8e68-c5887f0fd75c")
+			(uuid "c1a688b4-36fe-4553-a336-0bd66340e1cb")
 		)
 		(pin "4"
-			(uuid "7ac1a15c-8a57-4477-a5ce-07f7d4fdabb6")
+			(uuid "5bd066b7-d0b2-4c32-9bd2-a9988c6d2a74")
 		)
 		(pin "3"
-			(uuid "0f631e6e-2804-481a-b79a-1f337d0e93d9")
+			(uuid "71003524-b9bb-4064-9386-ce6c02f64df1")
 		)
 		(pin "2"
-			(uuid "6c741bc6-4cbc-425f-8104-83da99c76e60")
+			(uuid "d46c5382-1bb7-40e3-8e88-3cb0dbf7dd2a")
 		)
 		(instances
-			(project ""
+			(project "ActivePrecharge RevB"
 				(path "/5b79bd62-039b-48b8-a776-6011f31800bf/b87ed4ab-ede8-4401-aaa8-4c2bfd6c5f57"
-					(reference "U3")
+					(reference "U?")
 					(unit 1)
 				)
 			)
@@ -5310,7 +5310,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "2642d7ac-eb03-40c8-9c07-9d3d13668312")
+			(uuid "c8666e31-9c60-453b-983b-05889c181f71")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -5386,10 +5386,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "964459c6-40a3-4ca0-96b5-83b63921dcf4")
+			(uuid "2bf8aaf4-9bbd-47dc-9d0b-bebbfe39cd5c")
 		)
 		(pin "1"
-			(uuid "dd3ed7b2-a507-4521-b625-14e8d023004b")
+			(uuid "a13b63c1-bd7c-4e2b-8bf6-4926657724cb")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -5456,7 +5456,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9e34a26e-a1e9-41a0-b5a9-ba3a36680d41")
+			(uuid "d4f8827d-7e81-44f6-843e-0bb210886a7c")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -5531,10 +5531,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "0993e6d5-5f92-4255-ae89-0513da63844b")
+			(uuid "449a617a-a412-4077-880f-048c2ed38daf")
 		)
 		(pin "1"
-			(uuid "aa975b0a-930c-417a-9b1d-791ecbf8ac55")
+			(uuid "0fa4991d-9421-46f0-9ff4-cc20ad8eadeb")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -5610,10 +5610,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "005057f2-f549-4985-aad8-ba7262f22a05")
+			(uuid "a1f0b009-5775-4b1e-821c-f578d37908c2")
 		)
 		(pin "1"
-			(uuid "63064e7e-b811-40d1-bec7-df4b8eacf481")
+			(uuid "0719f5ae-cc44-4158-9316-f765f75339c4")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -5680,7 +5680,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8462c67e-5d44-436e-84c6-21fb04d529a2")
+			(uuid "25453d5d-8661-4713-9558-3f1d3fc5ffc8")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -5756,10 +5756,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "6d726553-400a-4fdd-b9d8-001ce1692b4c")
+			(uuid "fc640c4d-4c8e-432f-83a1-477fb9db30ad")
 		)
 		(pin "1"
-			(uuid "0d2f47ab-6a31-4485-af00-fc2eae61eb96")
+			(uuid "8f37e0da-1646-4681-bf6f-a10c2a68b6e6")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -5877,28 +5877,28 @@
 			)
 		)
 		(pin "6"
-			(uuid "ac9f18c5-b92a-4a57-907d-aac033361b48")
+			(uuid "4d8070c1-16e9-40a0-91bc-884294b37539")
 		)
 		(pin "1"
-			(uuid "4f21728f-0fa8-4655-80ec-0e1d073a67bd")
+			(uuid "6a962280-93b0-4ac8-80ea-5527d62a6833")
 		)
 		(pin "2"
-			(uuid "f35220da-b028-4b61-9411-15bd39bec977")
+			(uuid "35d25689-915c-48e2-9ee6-7f986ed24875")
 		)
 		(pin "5"
-			(uuid "b25ee525-84ec-44ef-b7ff-1440245f67be")
+			(uuid "faa4dd26-45cd-48a4-8581-a3620ce5f260")
 		)
 		(pin "8"
-			(uuid "d17a48ea-3264-4761-a693-81cd05c1a2e2")
+			(uuid "10233f90-4a22-48f4-87dc-f8ed0b5f6edc")
 		)
 		(pin "4"
-			(uuid "eb010e0e-1553-452a-b3b1-7b5178e4ad86")
+			(uuid "f86e6a8e-667e-439d-8baf-28a89c55d0aa")
 		)
 		(pin "3"
-			(uuid "f1484093-0781-4789-aeb4-8d2204226aa6")
+			(uuid "eb6cd000-a291-49a8-b218-d1492da32603")
 		)
 		(pin "7"
-			(uuid "96c52f4d-5734-43a2-8485-55851c45c578")
+			(uuid "c2cc34c2-4d51-4800-be15-762d9f238c90")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -5973,10 +5973,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "5eb1065e-682d-4400-bf18-3b088679a849")
+			(uuid "d7fa88c8-6c4b-4108-a11f-53343d0eb478")
 		)
 		(pin "1"
-			(uuid "d1d30554-c43b-4562-b992-7f8fd3710b58")
+			(uuid "af54cc2d-6be5-4a62-95dd-e0127c62407e")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -6043,7 +6043,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "360fd1ac-d388-4e5f-ad85-6823e3e80ffb")
+			(uuid "41d9d340-fdd6-425c-9eff-15725498529f")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -6119,10 +6119,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "df433c65-1384-4ef0-80e7-a3ee8c1dde55")
+			(uuid "218b759d-02d9-4807-9c2b-48503328c365")
 		)
 		(pin "1"
-			(uuid "b2cd0f02-67a4-498c-ab20-95a5ccc35b25")
+			(uuid "adee3687-7aaa-4a7c-8499-39b83f36ee5a")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -6198,10 +6198,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e6c6cebd-ab7d-44cf-961c-47d98874f175")
+			(uuid "98312411-de2b-4602-866f-d26efa6a5720")
 		)
 		(pin "1"
-			(uuid "da597556-694f-432e-b811-3058411302a7")
+			(uuid "01653836-6c92-423b-a171-ae36dbfc70e5")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -6266,7 +6266,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "c69ccf78-535a-4dc3-8ae4-85f36583212b")
+			(uuid "47991556-59e1-43d4-9bfd-a5708547a96f")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -6341,10 +6341,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "6d8c1376-9457-4ec9-bfa9-3ba884b75f06")
+			(uuid "7f8393f0-36de-4c61-901c-ecb78996c825")
 		)
 		(pin "1"
-			(uuid "edc54948-1403-4e99-a0ea-be5477632f9c")
+			(uuid "5fc7e011-be5b-4e70-b1fa-3fb45d5fc0a4")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -6411,7 +6411,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "760ab03c-7b6a-48f3-8704-f7a98f6498bd")
+			(uuid "2fd7664f-5395-4cd5-92b8-419e86e9ee5e")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -6487,10 +6487,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "728e50f0-b77f-46d2-80eb-ae843ebc50ce")
+			(uuid "85421921-f83d-4b88-a782-c200804e0434")
 		)
 		(pin "1"
-			(uuid "40b6d0c4-be5a-4c18-a909-c7f793f77da7")
+			(uuid "af4b0c53-9970-4a56-893a-01666e79863c")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -6557,7 +6557,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "5394dd49-e226-485f-b6a9-99d91e09cd4a")
+			(uuid "3af71dbc-4c9d-4a23-a95c-c66c5a2b8062")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -6632,10 +6632,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "fb8be750-c7a9-4160-9b1c-84552e83570a")
+			(uuid "10c647e9-c316-42b5-baa7-45471002be41")
 		)
 		(pin "1"
-			(uuid "b51c5027-c3b8-45fd-8f3d-55e29d9f5b88")
+			(uuid "6ee73f04-a65e-4caf-8501-14c136037345")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -6702,7 +6702,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "94f4df34-7cd4-4b70-ba9c-40a2c94e8d69")
+			(uuid "0b74ea06-553d-40dd-a8ff-75978d115d8c")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -6768,7 +6768,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "dc4ee6a6-8977-4088-8e50-11a5226c99af")
+			(uuid "be44dd24-1385-4eb5-b2e7-9828ced6f74e")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
@@ -6844,10 +6844,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "d92e233f-96c8-4a1b-9204-59dbfe378ae6")
+			(uuid "d275a98c-aa43-4f61-a0fa-3f9688b0ddd4")
 		)
 		(pin "1"
-			(uuid "1fe1ede9-0f04-4f7a-8aa9-6931f9c0b7b3")
+			(uuid "62fab463-65bf-4727-8a63-43b336421709")
 		)
 		(instances
 			(project "ActivePrecharge RevB"

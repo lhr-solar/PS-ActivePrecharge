@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ZXRE160AET5TA
+#/1405516/1777619/2.50/5/2/Integrated Circuit
+DEF ZXRE160AET5TA IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "ZXRE160AET5TA" 950 200 50 H V L CNN
+F2 "SOT95P280X100-5N" 950 100 50 H I L CNN
+F3 "https://www.diodes.com//assets/Datasheets/ZXRE160.pdf" 950 0 50 H I L CNN
+F4 "Voltage References 0.5V ENH ADJ Prec Shunt REG 5-Term" 950 -100 50 H I L CNN "Description"
+F5 "1" 950 -200 50 H I L CNN "Height"
+F6 "522-ZXRE160AET5TA" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/ZXRE160AET5TA?qs=aXnpsjvrXd3m2N9Ej%2FQI2A%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Diodes Incorporated" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "ZXRE160AET5TA" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X PGND 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X IN 3 0 -200 200 R 50 50 0 0 P
+X FB 4 1100 0 200 L 50 50 0 0 P
+X OUT 5 1100 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

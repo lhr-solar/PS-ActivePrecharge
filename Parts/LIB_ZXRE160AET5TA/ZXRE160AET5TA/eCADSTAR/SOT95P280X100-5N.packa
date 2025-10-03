@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ZXRE160AET5TA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-06-06:53:50)
+    (mountForm default
+        (footprintRef "SOT95P280X100-5N")
+        (spec "System")
+    )
+)

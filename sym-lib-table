@@ -12,4 +12,5 @@
   (lib (name "OP-AMP")(type "KiCad")(uri "${KIPRJMOD/Parts/TLV9001IDBVR/KiCADv6/2025-09-27_16-39-43.kicad_sym")(options "")(descr ""))
   (lib (name "CAP-10UF")(type "KiCad")(uri "${KIPRJMOD}/Parts/LIB_MSASE168BB5106MTNA01/MSASE168BB5106MTNA01/KiCad/MSASE168BB5106MTNA01.kicad_sym")(options "")(descr ""))
   (lib (name "ISO-AMP")(type "KiCad")(uri "${KIPRJMOD}/Parts/LIB_AMC1350DWVR/AMC1350DWVR/KiCad/AMC1350DWVR.kicad_sym")(options "")(descr ""))
+  (lib (name "VREF")(type "KiCad")(uri "${KIPRJMOD}/Parts/LIB_ZXRE160AET5TA/ZXRE160AET5TA/KiCad/ZXRE160AET5TA.kicad_sym")(options "")(descr ""))
 )

@@ -51,8 +51,55 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        [
+          "hole_clearance|110453223|72468224|6c7750fe-28ba-4a13-82e4-6e6cec818e61|22051282-4c7f-4216-9fc9-f47574a274c6",
+          ""
+        ],
+        [
+          "hole_clearance|112400000|72075000|43ee1081-9aff-4bd0-8371-1de8c3b2a50e|22051282-4c7f-4216-9fc9-f47574a274c6",
+          ""
+        ],
+        [
+          "hole_clearance|185750000|108425000|ea5fa567-8e0c-48ec-a992-2f5996f3479c|4a7ee86d-7e6d-4562-8aeb-cbfb5fab599d",
+          ""
+        ],
+        [
+          "hole_clearance|185750000|70250000|b798b7b2-9867-45ce-acd1-99c0d801bcd3|e763d764-2d0b-45c2-a364-3261739f40f7",
+          ""
+        ],
+        [
+          "hole_clearance|188250000|108425000|ea5fa567-8e0c-48ec-a992-2f5996f3479c|8cfabd27-f2e3-4d4a-891f-0fdd3ac9a2dc",
+          ""
+        ],
+        [
+          "hole_clearance|188250000|70250000|0e3d242a-3da1-40aa-99e6-e882881c0bf7|e763d764-2d0b-45c2-a364-3261739f40f7",
+          ""
+        ],
+        [
+          "malformed_courtyard|174817499|104450002|bf706ac7-d6b2-4152-b812-3408bd5ad931|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "malformed_courtyard|175069999|94110001|05715072-500a-4ec0-ad09-fa116df450fb|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "malformed_courtyard|175317501|104950001|bf706ac7-d6b2-4152-b812-3408bd5ad931|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "malformed_courtyard|175570001|94610000|05715072-500a-4ec0-ad09-fa116df450fb|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -180,7 +227,10 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.5
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -207,7 +257,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {

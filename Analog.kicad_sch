@@ -5190,7 +5190,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "41ea4a29-180c-40bf-a2be-a5136129aa70")
-		(property "Reference" "U4"
+		(property "Reference" "U2"
 			(at 240.03 51.9998 0)
 			(do_not_autoplace yes)
 			(effects
@@ -5290,7 +5290,7 @@
 		(instances
 			(project "ActivePrecharge RevB"
 				(path "/5b79bd62-039b-48b8-a776-6011f31800bf/b87ed4ab-ede8-4401-aaa8-4c2bfd6c5f57"
-					(reference "U4")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -6458,7 +6458,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "93323f92-5472-4d36-8628-a32d09d678d0")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 240.03 91.3698 0)
 			(do_not_autoplace yes)
 			(effects
@@ -6558,7 +6558,7 @@
 		(instances
 			(project "ActivePrecharge RevB"
 				(path "/5b79bd62-039b-48b8-a776-6011f31800bf/b87ed4ab-ede8-4401-aaa8-4c2bfd6c5f57"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)

@@ -1903,8 +1903,8 @@
 		(at 188.35212 100.31488)
 		(descr "Molex Nano-Fit Power Connectors, 105309-xx04, 4 Pins per row (http://www.molex.com/pdm_docs/sd/1053091203_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex Nano-Fit vertical")
-		(property "Reference" "J4"
-			(at -5.905 5.08512 90)
+		(property "Reference" "MainCont"
+			(at -0.05212 10.58512 180)
 			(layer "F.SilkS")
 			(uuid "611f4e4a-ab9f-4a93-ab7e-5602d5dd53c6")
 			(effects
@@ -2435,7 +2435,7 @@
 		(at 142.425 72.1875 -90)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
-		(property "Reference" "D2"
+		(property "Reference" "REG_3V3"
 			(at 0 -1.775 90)
 			(layer "F.SilkS")
 			(uuid "14158c92-5552-4678-8d54-c9a6889d4fb2")
@@ -2682,7 +2682,7 @@
 		(at 173.95 112.5 180)
 		(descr "THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm")
 		(tags "test point THT pad")
-		(property "Reference" "TP11"
+		(property "Reference" "LVGND"
 			(at 0 -1.5 180)
 			(layer "F.SilkS")
 			(uuid "b1224d3b-b413-4c85-964c-810935984629")
@@ -4459,7 +4459,7 @@
 		(at 172.2 67)
 		(descr "THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm")
 		(tags "test point THT pad")
-		(property "Reference" "TP8"
+		(property "Reference" "V1"
 			(at 0 -1.448 0)
 			(layer "F.SilkS")
 			(uuid "2d7ad1f5-7a8d-40fe-8ab8-830476da5b0b")
@@ -4776,8 +4776,8 @@
 		(at 187.78712 83.06488)
 		(descr "Molex Nano-Fit Power Connectors, 105310-xx12, 6 Pins per row (http://www.molex.com/pdm_docs/sd/1053101208_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex Nano-Fit vertical")
-		(property "Reference" "J2"
-			(at -5.48712 6.23512 90)
+		(property "Reference" "Export"
+			(at -5.88712 6.23512 90)
 			(layer "F.SilkS")
 			(uuid "ff9eae3b-8d5e-4ee8-b7a8-4578d1df16e8")
 			(effects
@@ -8717,7 +8717,7 @@
 		(at 168.4 67)
 		(descr "THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm")
 		(tags "test point THT pad")
-		(property "Reference" "TP10"
+		(property "Reference" "3V3"
 			(at 0 -1.448 0)
 			(layer "F.SilkS")
 			(uuid "81f72ca6-bf3d-4bcf-a7b5-865b2e1d10cf")
@@ -8822,8 +8822,8 @@
 		(at 143.05 67)
 		(descr "THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm")
 		(tags "test point THT pad")
-		(property "Reference" "TP4"
-			(at 0 -1.448 0)
+		(property "Reference" "REG_3V3"
+			(at 0 -1.5 0)
 			(layer "F.SilkS")
 			(uuid "7a01cf16-3dbd-4c86-a859-478f93fb5b67")
 			(effects
@@ -9139,7 +9139,7 @@
 		(at 116 112.25)
 		(descr "THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm")
 		(tags "test point THT pad")
-		(property "Reference" "TP1"
+		(property "Reference" "HV+"
 			(at 0 -1.448 0)
 			(layer "F.SilkS")
 			(uuid "c159a992-23cc-4978-820d-6467371ffad6")
@@ -10020,7 +10020,7 @@
 		(at 181.075 102.15 180)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
-		(property "Reference" "D6"
+		(property "Reference" "Main"
 			(at 0 -1.7 0)
 			(layer "F.SilkS")
 			(uuid "b15ccf77-7228-4d7b-ac5c-698bbdf1583b")
@@ -10479,7 +10479,7 @@
 		(at 116 108.75)
 		(descr "THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm")
 		(tags "test point THT pad")
-		(property "Reference" "TP3"
+		(property "Reference" "HV-"
 			(at 0 -1.448 0)
 			(layer "F.SilkS")
 			(uuid "27e16bf1-9ccb-417d-ac8d-e2759e31581e")
@@ -19656,8 +19656,8 @@
 		(at 151 67)
 		(descr "THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm")
 		(tags "test point THT pad")
-		(property "Reference" "TP5"
-			(at 0 -1.448 0)
+		(property "Reference" "ISO_5V"
+			(at 0 -1.5 0)
 			(layer "F.SilkS")
 			(uuid "be478792-6a1d-4bf5-981d-828ca18a2593")
 			(effects
@@ -25586,7 +25586,7 @@
 		(at 147.75 112.5 180)
 		(descr "THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm")
 		(tags "test point THT pad")
-		(property "Reference" "TP7"
+		(property "Reference" "Vin2"
 			(at 0 -1.5 180)
 			(layer "F.SilkS")
 			(uuid "52af3c3b-bcc4-4ff8-8cc3-efdd9581a1a0")
@@ -26115,14 +26115,14 @@
 		(at 110.05 112.25)
 		(descr "THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm")
 		(tags "test point THT pad")
-		(property "Reference" "TP2"
+		(property "Reference" "HVGND"
 			(at 0 -1.448 0)
 			(layer "F.SilkS")
 			(uuid "1348468a-cf1c-4541-8648-a1cc64a268be")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.15)
+					(thickness 0.125)
 				)
 			)
 		)
@@ -26220,7 +26220,7 @@
 		(at 170.5 112.5)
 		(descr "THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm")
 		(tags "test point THT pad")
-		(property "Reference" "TP9"
+		(property "Reference" "V2"
 			(at 0 1.5 0)
 			(layer "F.SilkS")
 			(uuid "e86b1fe8-bdab-4dea-b249-fa37820f1f36")
@@ -27900,7 +27900,7 @@
 		(at 109.9 71.825 90)
 		(descr "Molex Nano-Fit Power Connectors, 105309-xx03, 3 Pins per row (http://www.molex.com/pdm_docs/sd/1053091203_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex Nano-Fit vertical")
-		(property "Reference" "J1"
+		(property "Reference" "HVConnector"
 			(at 0 -2.92 90)
 			(layer "F.SilkS")
 			(uuid "d52ead06-4424-4b2f-82d5-8c0faec3bf99")
@@ -29968,7 +29968,7 @@
 		(at 188.34212 70.75488)
 		(descr "Molex Nano-Fit Power Connectors, 105309-xx04, 4 Pins per row (http://www.molex.com/pdm_docs/sd/1053091203_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex Nano-Fit vertical")
-		(property "Reference" "J3"
+		(property "Reference" "PreCont"
 			(at -5.895 3.69 90)
 			(layer "F.SilkS")
 			(uuid "71957d82-6692-4156-b54d-952f87cc558d")
@@ -48345,7 +48345,7 @@
 		(at 147.05 69.0375 -90)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
-		(property "Reference" "D3"
+		(property "Reference" "ISO_5V"
 			(at -0.0375 -1.75 90)
 			(layer "F.SilkS")
 			(uuid "b2fd64a9-638c-41ad-811f-ac5dcb5ad7f5")
@@ -49228,7 +49228,7 @@
 		(at 159.5 67.25 -90)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
-		(property "Reference" "D4"
+		(property "Reference" "3V3"
 			(at -0.025 -1.75 90)
 			(layer "F.SilkS")
 			(uuid "496ace58-c63e-4c3a-8211-722f3710b32a")
@@ -68824,7 +68824,7 @@
 		(at 137.8 67)
 		(descr "THT pad as test Point, diameter 1.0mm, hole diameter 0.5mm")
 		(tags "test point THT pad")
-		(property "Reference" "TP6"
+		(property "Reference" "Vin1"
 			(at 0 -1.448 0)
 			(layer "F.SilkS")
 			(uuid "127c9c3f-5fd9-4c44-a217-92df438837dd")
@@ -68929,7 +68929,7 @@
 		(at 182.8125 68.91875 180)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
-		(property "Reference" "D5"
+		(property "Reference" "Pre"
 			(at 0 -1.58125 0)
 			(layer "F.SilkS")
 			(uuid "7e06973b-7fbe-456e-a7ae-529e22748503")
@@ -78340,7 +78340,7 @@
 		)
 	)
 	(gr_text "MSense+"
-		(at 176.4 90.9 0)
+		(at 175.9 90.9 0)
 		(layer "F.SilkS")
 		(uuid "0f01ccdf-94a5-494a-bd45-b7a7e7563b36")
 		(effects
@@ -78479,7 +78479,7 @@
 		)
 	)
 	(gr_text "Pre+"
-		(at 178.8 88.6 0)
+		(at 178.3 88.6 0)
 		(layer "F.SilkS")
 		(uuid "40533001-5bd8-45d7-82d8-b21dec25fe73")
 		(effects

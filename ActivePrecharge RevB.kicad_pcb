@@ -6579,7 +6579,7 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "435a1011-5f89-4963-b311-d357b5a71269")
-		(at 176.6 70.6)
+		(at 177.031319 70.6)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -9241,12 +9241,12 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "6bdcd118-7a57-4d50-8f85-3c11b26f4210")
-		(at 181.2 111.895084)
+		(at 181.1 111.8)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "10bcb9a2-99fe-45a3-a422-4ca199e5ecc8")
+			(uuid "74f733bf-5050-4dc2-b39e-6f49713bf875")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -9259,7 +9259,7 @@
 			(at 0.75 0 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "2e4321bb-6b63-4ec3-8080-6b8e98cf72b9")
+			(uuid "91d7ccaa-9727-437e-929a-b49c8277f831")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -9272,7 +9272,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d5e11ed7-68e2-4a64-ac80-39fd5f67496b")
+			(uuid "9d161338-bfda-4174-9cb9-b912e4008f2f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9284,7 +9284,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "29488873-729d-4e72-8009-12284ff10495")
+			(uuid "fea7f318-8d55-46a3-8dd2-55aed0014403")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20182,7 +20182,7 @@
 	(footprint "UTSVT-Logos:Hallock_Image_Tiny"
 		(layer "F.Cu")
 		(uuid "7f70c1fe-0bc6-4545-b4e1-2cb3d00fae62")
-		(at 141.472932 111.319857)
+		(at 141.822932 111.419857)
 		(property "Reference" "LOGO1"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -49896,7 +49896,7 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "e7bf1f20-bf62-48af-af03-ab35607043b1")
-		(at 108 105.7)
+		(at 108 106.1)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -78758,14 +78758,6 @@
 				)
 			)
 		)
-	)
-	(via
-		(at 144.75 85.3996)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(net 1)
-		(uuid "1190d50d-a772-462f-bbf6-ef8d2a948d47")
 	)
 	(segment
 		(start 151.13 76.65)

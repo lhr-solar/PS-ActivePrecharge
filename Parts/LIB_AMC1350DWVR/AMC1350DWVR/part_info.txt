@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=AMC1350DWVR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.2
+Released=2021-09-24 06:46:34
+Downloaded=2025-09-27 23:15:38
+3D=Y

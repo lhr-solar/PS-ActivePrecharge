@@ -1,0 +1,16 @@
+.AMC1350DWVR :1 ;SOIC
+SOIC127P1150X280-8N
+*STM IC
+*NGS
+*PLB 1="VDD1" 2="INP" 3="INN" 4="GND1" 5="GND2" 6="OUTN" 7="OUTP" 8="VDD2"
+*MXP 8
+*DFN AMC1350DWVR
+~!Mouser Part Number (595-AMC1350DWVR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/AMC1350DWVR?qs=Rp5uXu7WBW%2FANH2mDTT%252Bkg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (AMC1350DWVR)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/amc1350.pdf?ts=1632455585396&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DPAMC1350DWVR)
+~!Height (2.8mm)
+~!3D_Model (AMC1350DWVR)
+AMC1350DWVR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RSX068MP2STR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RSX068MP2STR")
+        (spec "default")
+    )
+)

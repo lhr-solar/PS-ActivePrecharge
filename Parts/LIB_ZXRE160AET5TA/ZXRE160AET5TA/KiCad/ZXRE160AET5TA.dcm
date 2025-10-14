@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZXRE160AET5TA
+D Voltage References 0.5V ENH ADJ Prec Shunt REG 5-Term
+K
+F https://www.diodes.com//assets/Datasheets/ZXRE160.pdf
+$ENDCMP
+#
+#End Doc Library

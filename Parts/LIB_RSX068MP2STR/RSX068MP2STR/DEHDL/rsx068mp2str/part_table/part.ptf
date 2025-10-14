@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RSX068MP2STR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ROHM Semiconductor", "RSX068MP2STR" (!) = "", "RSX068MP2STR", "Other", "755-RSX068MP2STR", "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RSX068MP2STR?qs=Y0Uzf4wQF3mHCy1rcjsvrw%3D%3D", "Schottky Diodes &RSX068MP2STR Rectifiers SCHOTTKY DIODE 200V 2A", "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rsx068mp2str-e.pdf", "1.1 mm"
+END_PART
+
+END.

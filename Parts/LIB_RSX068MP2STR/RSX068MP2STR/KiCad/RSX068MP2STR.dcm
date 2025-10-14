@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RSX068MP2STR
+D Schottky Diodes &RSX068MP2STR Rectifiers SCHOTTKY DIODE 200V 2A
+K
+F https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rsx068mp2str-e.pdf
+$ENDCMP
+#
+#End Doc Library

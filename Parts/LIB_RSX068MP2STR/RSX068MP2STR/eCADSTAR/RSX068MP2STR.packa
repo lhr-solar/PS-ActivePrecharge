@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RSX068MP2STR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-02-08-04:12:40)
+    (mountForm default
+        (footprintRef "RSX068MP2STR")
+        (spec "System")
+    )
+)

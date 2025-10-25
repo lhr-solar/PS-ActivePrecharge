@@ -4,4 +4,5 @@
   (lib (name "UTSVT-Connectors")(type "KiCad")(uri "${KIPRJMOD}/KiCAD-Sharepoint/UTSVT_Connectors.pretty")(options "")(descr ""))
   (lib (name "UTSVT-Passives")(type "KiCad")(uri "${KIPRJMOD}/KiCAD-Sharepoint/UTSVT_Passives.pretty")(options "")(descr ""))
   (lib (name "UTSVT-Logos")(type "KiCad")(uri "${KIPRJMOD}/KiCAD-Sharepoint/UTSVT_Logos.pretty")(options "")(descr ""))
+  (lib (name "UTSVT-Special")(type "KiCad")(uri "${KIPRJMOD}/KiCAD-Sharepoint/UTSVT_Special.pretty")(options "")(descr ""))
 )

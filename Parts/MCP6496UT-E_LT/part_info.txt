@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP6496UT-E/LT
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2023-10-09 03:05:01
+Downloaded=2025-12-06 21:30:37
+3D=Y

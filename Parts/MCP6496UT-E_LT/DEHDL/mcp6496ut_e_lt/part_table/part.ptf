@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCP6496UT_E_LT'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MCP6496UT-E/LT" (!) = "", "SOT65P210X110-5N", "SOT23 (5-Pin)", "579-MCP6496UT-E/LT", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP6496UT-E-LT?qs=rQFj71Wb1eVvCEGwzv3Ppw%3D%3D", "Operational Amplifiers - Op Amps", "https://datasheet.lcsc.com/lcsc/2309071240_Microchip-Tech-MCP6496UT-E-LT_C6797877.pdf", "1.1 mm"
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MCP6496UT-E_LT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-10-09-03:05:01)
+    (mountForm default
+        (footprintRef "SOT65P210X110-5N")
+        (spec "System")
+    )
+)

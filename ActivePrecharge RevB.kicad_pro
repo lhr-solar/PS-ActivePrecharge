@@ -764,7 +764,11 @@
     ],
     [
       "b87ed4ab-ede8-4401-aaa8-4c2bfd6c5f57",
-      "Voltage_Sense"
+      "Battery_Sense"
+    ],
+    [
+      "66508218-a57e-446c-8ad7-eed26f1cbb2f",
+      "Motor_Sense"
     ]
   ],
   "text_variables": {}

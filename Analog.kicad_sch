@@ -1369,6 +1369,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 40.64) (xy 43.18 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34467369-d640-4162-88c6-65ff2387b69d")
+	)
+	(wire
+		(pts
 			(xy 129.54 45.72) (xy 127 45.72)
 		)
 		(stroke
@@ -1807,7 +1817,7 @@
 	)
 	(hierarchical_label "Vin"
 		(shape input)
-		(at 43.18 48.26 90)
+		(at 45.72 48.26 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2264,7 +2274,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5005-5009_Compact"
 			(at 147.32 45.72 0)
 			(effects
 				(font
@@ -2335,7 +2345,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5005-5009_Compact"
 			(at 139.7 45.72 0)
 			(effects
 				(font
@@ -2373,6 +2383,77 @@
 				)
 				(path "/5b79bd62-039b-48b8-a776-6011f31800bf/b87ed4ab-ede8-4401-aaa8-4c2bfd6c5f57"
 					(reference "TP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 43.18 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5b926854-9584-4ab5-a8ac-1181b05c8644")
+		(property "Reference" "TP9"
+			(at 45.72 36.0679 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Vin"
+			(at 45.72 38.6079 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5005-5009_Compact"
+			(at 48.26 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 43.18 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8a082927-1e65-45be-bcde-696723dc479e")
+		)
+		(instances
+			(project ""
+				(path "/5b79bd62-039b-48b8-a776-6011f31800bf/66508218-a57e-446c-8ad7-eed26f1cbb2f"
+					(reference "TP10")
+					(unit 1)
+				)
+				(path "/5b79bd62-039b-48b8-a776-6011f31800bf/b87ed4ab-ede8-4401-aaa8-4c2bfd6c5f57"
+					(reference "TP9")
 					(unit 1)
 				)
 			)

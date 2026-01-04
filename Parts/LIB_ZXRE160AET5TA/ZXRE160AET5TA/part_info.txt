@@ -1,9 +1,0 @@
-Manufacturer=Diodes Incorporated
-PartNumber=ZXRE160AET5TA
-PartCategory=Integrated Circuit
-PackageCategory=SOT23 (5-Pin)
-PinCount=5
-Version=5.1
-Released=2020-04-16 14:31:18
-Downloaded=2025-10-03 03:07:05
-3D=Y

@@ -1,9 +1,0 @@
-Manufacturer=TAIYO YUDEN
-PartNumber=MSASE168BB5106MTNA01
-PartCategory=Capacitor
-PackageCategory=Capacitor Chip Non-polarised
-PinCount=2
-Version=1.1
-Released=2024-08-14 08:53:51
-Downloaded=2025-09-27 22:22:30
-3D=Y

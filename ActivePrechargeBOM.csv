@@ -1,0 +1,27 @@
+Qty,Value,P/N,Description
+1,TLV9002QDRQ1,TLV9002QDRQ1,
+3,1k,CRCW06031K00FKEI ,1k Resistor
+2,1nF,MLASU063SB7102KFNA01,1nF Capacitor
+10,1uF,MLASU168SB5105KTNA01,1uF Capacitors
+3,1.5A,3568,1.5A Fuse
+2,2.49k,CRCW06032K49FKEAC,2.49k Resistor
+2,10,CRCW060310R0FKEE,10 Ohm Resistor
+10,10k,CRCW060310K0FKEI,10k Resistor
+2,10nF,MSASH168SB5103KTNA01,10nF Capacitor
+2,10uF,GRM21BR61H106KE43K,10uF Capacitor
+2,100k,CRCW0603100KFKEE,100k Resistor
+4,100nF,MLASH168SB7104KTNA01,100nF Capacitor
+1,RM-3.305S, RM-3.305S,3.3V to 5V DC/DC
+1,LT1963AEST-3.3#TRPBF,LT1963AEST-3.3#TRPBF ,"3.3V, 1.5A, Low Noise, Fast Transient Response LDO Regulator, SOT-223"
+2,VSSAF522-M3/H,VSSAF522-M3/H,Flyback diode
+1,ExportConnector,1053101112,"Generic connector, double row, 02x06, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"
+2,Conn_01x01_Pin,,"Generic connector, single row, 01x01, script generated"
+1,Conn_01x02_Pin,,"Generic connector, single row, 01x02, script generated"
+1,HVConnector,1053091103,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+2,AMC1350DWVR,AMC1350DWVR,Iso Opamps
+5,LED,XL-1608UBC-06A,Light emitting diode
+1,PrechargeContactor,1053091104,Pinout for contactor connectors.
+1,MainContactor,1053091104,Pinout for contactor connectors.
+3,330,  PWR263S-35-3300F,Precharge Resistor
+1,330,  PWR263S-35-3300F,Precharge Resistor
+1,RSX068MP2STR,RSX068MP2STR,Schottky diode

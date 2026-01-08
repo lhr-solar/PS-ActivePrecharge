@@ -60,27 +60,27 @@
       ],
       "drc_exclusions": [
         [
-          "hole_clearance|110553223|75011826|6c7750fe-28ba-4a13-82e4-6e6cec818e61|22051282-4c7f-4216-9fc9-f47574a274c6",
+          "hole_clearance|110553223|76411826|22051282-4c7f-4216-9fc9-f47574a274c6|6c7750fe-28ba-4a13-82e4-6e6cec818e61",
           ""
         ],
         [
-          "hole_clearance|112500000|74618602|43ee1081-9aff-4bd0-8371-1de8c3b2a50e|22051282-4c7f-4216-9fc9-f47574a274c6",
+          "hole_clearance|112500000|76018602|22051282-4c7f-4216-9fc9-f47574a274c6|43ee1081-9aff-4bd0-8371-1de8c3b2a50e",
           ""
         ],
         [
-          "hole_clearance|186420000|104200000|8cfabd27-f2e3-4d4a-891f-0fdd3ac9a2dc|ea5fa567-8e0c-48ec-a992-2f5996f3479c",
+          "hole_clearance|186420000|104200000|ea5fa567-8e0c-48ec-a992-2f5996f3479c|8cfabd27-f2e3-4d4a-891f-0fdd3ac9a2dc",
           ""
         ],
         [
-          "hole_clearance|186420000|106700000|4a7ee86d-7e6d-4562-8aeb-cbfb5fab599d|ea5fa567-8e0c-48ec-a992-2f5996f3479c",
+          "hole_clearance|186420000|106700000|ea5fa567-8e0c-48ec-a992-2f5996f3479c|4a7ee86d-7e6d-4562-8aeb-cbfb5fab599d",
           ""
         ],
         [
-          "hole_clearance|186420000|74640000|b798b7b2-9867-45ce-acd1-99c0d801bcd3|e763d764-2d0b-45c2-a364-3261739f40f7",
+          "hole_clearance|186420000|74640000|e763d764-2d0b-45c2-a364-3261739f40f7|b798b7b2-9867-45ce-acd1-99c0d801bcd3",
           ""
         ],
         [
-          "hole_clearance|186420000|77140000|0e3d242a-3da1-40aa-99e6-e882881c0bf7|e763d764-2d0b-45c2-a364-3261739f40f7",
+          "hole_clearance|186420000|77140000|e763d764-2d0b-45c2-a364-3261739f40f7|0e3d242a-3da1-40aa-99e6-e882881c0bf7",
           ""
         ]
       ],
@@ -713,6 +713,24 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Digikey P/N",
+          "name": "Digikey P/N",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLC P/N",
+          "name": "JLC P/N",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser P/N",
+          "name": "Mouser P/N",
           "show": false
         }
       ],

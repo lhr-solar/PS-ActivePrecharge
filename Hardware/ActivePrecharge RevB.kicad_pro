@@ -779,8 +779,12 @@
       "Root"
     ],
     [
-      "b87ed4ab-ede8-4401-aaa8-4c2bfd6c5f57",
-      "Voltage_Sense"
+      "4dee3ba1-d832-4bf7-8954-24d2c9dc4bc1",
+      "Battery_Voltage"
+    ],
+    [
+      "93d30d6b-6904-42df-b154-a5bef8d5102e",
+      "Motor_Voltage"
     ]
   ],
   "text_variables": {}

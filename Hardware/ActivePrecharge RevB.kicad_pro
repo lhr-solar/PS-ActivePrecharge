@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 0.9906,
+          "width": 1.4986
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -58,48 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "hole_clearance|110453223|72468224|22051282-4c7f-4216-9fc9-f47574a274c6|6c7750fe-28ba-4a13-82e4-6e6cec818e61",
-          ""
-        ],
-        [
-          "hole_clearance|112400000|72075000|22051282-4c7f-4216-9fc9-f47574a274c6|43ee1081-9aff-4bd0-8371-1de8c3b2a50e",
-          ""
-        ],
-        [
-          "hole_clearance|188092120|73254880|e763d764-2d0b-45c2-a364-3261739f40f7|b798b7b2-9867-45ce-acd1-99c0d801bcd3",
-          ""
-        ],
-        [
-          "hole_clearance|188092120|75754880|e763d764-2d0b-45c2-a364-3261739f40f7|0e3d242a-3da1-40aa-99e6-e882881c0bf7",
-          ""
-        ],
-        [
-          "hole_clearance|188102120|102814880|ea5fa567-8e0c-48ec-a992-2f5996f3479c|8cfabd27-f2e3-4d4a-891f-0fdd3ac9a2dc",
-          ""
-        ],
-        [
-          "hole_clearance|188102120|105314880|ea5fa567-8e0c-48ec-a992-2f5996f3479c|4a7ee86d-7e6d-4562-8aeb-cbfb5fab599d",
-          ""
-        ],
-        [
-          "malformed_courtyard|172467499|104450002|bf706ac7-d6b2-4152-b812-3408bd5ad931|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "malformed_courtyard|172719999|94110001|05715072-500a-4ec0-ad09-fa116df450fb|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "malformed_courtyard|172967501|104950001|bf706ac7-d6b2-4152-b812-3408bd5ad931|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "malformed_courtyard|173220001|94610000|05715072-500a-4ec0-ad09-fa116df450fb|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -120,7 +79,7 @@
         "footprint_filters_mismatch": "ignore",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
-        "hole_clearance": "error",
+        "hole_clearance": "ignore",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
         "invalid_outline": "error",
@@ -724,6 +683,24 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Digikey P/N",
+          "name": "Digikey P/N",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser P/N",
+          "name": "Mouser P/N",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "JLC P/N",
+          "name": "JLC P/N",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -779,11 +756,11 @@
       "Root"
     ],
     [
-      "4dee3ba1-d832-4bf7-8954-24d2c9dc4bc1",
+      "1d41cb18-2415-4c32-937e-e014caff68c0",
       "Battery_Voltage"
     ],
     [
-      "93d30d6b-6904-42df-b154-a5bef8d5102e",
+      "b7e79bfa-1207-4156-b28b-8e03573a329a",
       "Motor_Voltage"
     ]
   ],

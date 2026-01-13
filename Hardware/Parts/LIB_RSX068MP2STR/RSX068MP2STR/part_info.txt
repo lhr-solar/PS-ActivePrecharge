@@ -1,9 +1,0 @@
-Manufacturer=ROHM Semiconductor
-PartNumber=RSX068MP2STR
-PartCategory=Schottky Diode
-PackageCategory=Other
-PinCount=2
-Version=1.2
-Released=2025-02-08 04:12:40
-Downloaded=2025-09-23 02:30:27
-3D=Y

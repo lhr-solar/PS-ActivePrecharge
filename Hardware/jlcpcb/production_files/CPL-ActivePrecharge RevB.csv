@@ -19,7 +19,7 @@ C6,1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,167.0625,-85.92,0.0,top
 C7,1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,167.0625,-84.39,0.0,top
 C8,1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,161.98,-85.92,180.0,top
 C9,1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,156.178333,-101.6525,-90.0,top
-D1,RSX068MP2STR,RSX068MP2STR,123.375,-108.8,90.0,top
+D1,RSX068MP2STR,RSX068MP2STR,121.75,-121.25,90.0,top
 D2,VSSAF522-M3/H,SODFL5026X125N,189.5,-81.8,-90.0,top
 D3,VSSAF522-M3/H,SODFL5026X125N,189.0,-113.05,-90.0,top
 D4,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,153.01,-81.5775,90.0,top
@@ -27,19 +27,18 @@ D5,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,186.0775,-84.19,180.0,top
 D6,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,161.98,-82.79,180.0,top
 D7,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,189.72,-118.0075,-90.0,top
 D8,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,167.0625,-81.28,180.0,top
-F1,1.5A,FUSE_3568,119.55,-98.535,-90.0,top
-F2,1.5A,FUSE_3568,127.0,-98.54,-90.0,top
+F1,1.5A,HV-Fuse,116.0,-102.885,-90.0,top
+F2,1.5A,HV-Fuse,127.0,-102.885,-90.0,top
 F3,1.5A,FUSE_3568,180.27,-88.89,0.0,top
 IC1,AMC1350DWVR,SOIC127P1150X280-8N,165.0,-101.395,0.0,top
 IC2,AMC1350DWVR,SOIC127P1150X280-8N,165.0,-112.7,0.0,top
-J1,HVConnector,Molex_Nano-Fit_105309-xx03_1x03_P2.50mm_Vertical,122.5,-85.513602,90.0,top
+J1,HVConnector,Molex_Nano-Fit_105309-xx03_1x03_P2.50mm_Vertical,122.5,-84.445,90.0,top
 J2,PrechargeContactor,Molex_Nano-Fit_105309-xx04_1x04_P2.50mm_Vertical,195.935,-85.19,0.0,top
 J3,MainContactor,Molex_Nano-Fit_105309-xx04_1x04_P2.50mm_Vertical,195.935,-114.75,0.0,top
 J4,ExportConnector,Molex_Nano-Fit_105310-xx12_2x06_P2.50mm_Vertical,194.57,-100.0,0.0,top
 J5,HV+,PinHeader_1x01_P2.54mm_Vertical,136.55,-124.6,0.0,top
 J6,HV-,PinHeader_1x01_P2.54mm_Vertical,136.55,-74.9,0.0,top
-J7,Conn_01x02_Pin,PinHeader_1x02_P2.54mm_Vertical,174.645,-82.055,180.0,top
-LOGO1,Dr. Hallock,Hallock_Image_Tiny,125.322932,-121.189857,0.0,top
+LOGO1,Dr. Hallock,Hallock_Image_Tiny,181.227069,-87.569857,0.0,bottom
 PS1,RM-3.305S,CONV_RM-3.305S,164.93,-88.225,180.0,top
 R1,330,RES_PWR263S-35-3300F,141.5125,-81.166398,0.0,top
 R10,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,173.2375,-114.6,0.0,top
@@ -64,16 +63,5 @@ R6,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,173.4375,-97.88,0.0,top
 R7,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,173.2375,-113.06,180.0,top
 R8,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,173.2375,-111.52,0.0,top
 R9,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,173.4375,-102.49,180.0,top
-TP1,HVGND,TestPoint_Keystone_5005-5009_Compact,117.5,-114.3,0.0,top
-TP10,V+,TestPoint_Keystone_5005-5009_Compact,168.5,-120.9,0.0,top
-TP11,V-,TestPoint_Keystone_5005-5009_Compact,174.5,-120.9,0.0,top
-TP2,VOut1,TestPoint_Keystone_5005-5009_Compact,182.5725,-101.8,0.0,top
-TP3,VOut2,TestPoint_Keystone_5005-5009_Compact,182.5725,-113.5,0.0,top
-TP4,REG_3V3,TestPoint_Keystone_5005-5009_Compact,154.0,-77.8,0.0,top
-TP5,ISO_5V,TestPoint_Keystone_5005-5009_Compact,160.15,-77.8,0.0,top
-TP6,Vin,TestPoint_Keystone_5005-5009_Compact,161.75,-120.9,0.0,top
-TP7,V+,TestPoint_Keystone_5005-5009_Compact,178.44,-96.25,0.0,top
-TP8,V-,TestPoint_Keystone_5005-5009_Compact,183.5,-96.25,0.0,top
-TP9,Vin,TestPoint_Keystone_5005-5009_Compact,156.0,-120.9,0.0,top
-U1,TLV9002QDRQ1,SOIC-8_3.9x4.9mm_P1.27mm,175.665,-107.0,-90.0,top
+U1,TLV9002QDRQ1,SOIC-8_3.9x4.9mm_P1.27mm,175.665,-107.0,180.0,top
 U2,LT1963AEST-3.3#TRPBF,VREG_LT1963AEST-3.3_TRPBF,155.3,-91.5,-90.0,top

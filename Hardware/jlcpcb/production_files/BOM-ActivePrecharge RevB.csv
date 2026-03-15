@@ -1,5 +1,5 @@
 Comment,Designator,Footprint,LCSC,Quantity
-1.5A,"F1,F2,F3",FUSE_3568,C5249699,3
+1.5A,F3,FUSE_3568,C5249699,1
 10,"R13,R14",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C313648,2
 100k,"R20,R22",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25803,2
 100nF,"C10,C14,C16,C20",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663,4
@@ -21,8 +21,9 @@ VSSAF522-M3/H,"D2,D3",SODFL5026X125N,C20039242,2
 HVGND,TP1,TestPoint_Keystone_5005-5009_Compact,,1
 HV+,J5,PinHeader_1x01_P2.54mm_Vertical,,1
 MainContactor,J3,Molex_Nano-Fit_105309-xx04_1x04_P2.50mm_Vertical,,1
-Conn_01x02_Pin,J7,PinHeader_1x02_P2.54mm_Vertical,,1
 PrechargeContactor,J2,Molex_Nano-Fit_105309-xx04_1x04_P2.50mm_Vertical,,1
+1.5A,F2,HV-Fuse,,1
 ExportConnector,J4,Molex_Nano-Fit_105310-xx12_2x06_P2.50mm_Vertical,,1
 HV-,J6,PinHeader_1x01_P2.54mm_Vertical,,1
+1.5A,F1,HV-Fuse,,1
 HVConnector,J1,Molex_Nano-Fit_105309-xx03_1x03_P2.50mm_Vertical,,1

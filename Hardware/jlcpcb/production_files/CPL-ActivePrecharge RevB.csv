@@ -32,7 +32,7 @@ F2,1.5A,HV-Fuse,127.0,-102.885,-90.0,top
 F3,1.5A,FUSE_3568,180.27,-88.89,0.0,top
 IC1,AMC1350DWVR,SOIC127P1150X280-8N,165.0,-101.395,0.0,top
 IC2,AMC1350DWVR,SOIC127P1150X280-8N,165.0,-112.7,0.0,top
-J1,HVConnector,Molex_Nano-Fit_105309-xx03_1x03_P2.50mm_Vertical,122.5,-84.445,90.0,top
+J1,HVConnector,Molex_Nano-Fit_105309-xx03_1x03_P2.50mm_Vertical,122.5,-84.195,90.0,top
 J2,PrechargeContactor,Molex_Nano-Fit_105309-xx04_1x04_P2.50mm_Vertical,195.935,-85.19,0.0,top
 J3,MainContactor,Molex_Nano-Fit_105309-xx04_1x04_P2.50mm_Vertical,195.935,-114.75,0.0,top
 J4,ExportConnector,Molex_Nano-Fit_105310-xx12_2x06_P2.50mm_Vertical,194.57,-100.0,0.0,top

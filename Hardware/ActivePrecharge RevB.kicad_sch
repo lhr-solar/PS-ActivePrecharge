@@ -127,169 +127,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector:Conn_01x02_Pin"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x02_Pin"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x02, script generated"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x02_Pin_1_1"
-				(rectangle
-					(start 0.8636 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 0.8636 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 0.8636 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 0.8636 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector:TestPoint"
 			(pin_numbers
 				(hide yes)
@@ -3800,16 +3637,6 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 152.4) (xy 275.59 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1628e14d-cce1-47a0-9d04-6612e0eaaf36")
-	)
-	(wire
-		(pts
 			(xy 105.41 180.34) (xy 105.41 184.15)
 		)
 		(stroke
@@ -4517,16 +4344,6 @@
 			(type default)
 		)
 		(uuid "d56a3aa0-a21d-4b02-9269-2d5a5de946ea")
-	)
-	(wire
-		(pts
-			(xy 269.24 154.94) (xy 275.59 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8245470-c4be-423c-ac5e-552e2baf9444")
 	)
 	(wire
 		(pts
@@ -5418,74 +5235,6 @@
 			(project "ActivePrecharge RevB"
 				(path "/5b79bd62-039b-48b8-a776-6011f31800bf"
 					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 275.59 154.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "07b6ddcd-c95c-44c6-b78d-c5f430865466")
-		(property "Reference" "#PWR032"
-			(at 275.59 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "LVGND"
-			(at 275.59 160.02 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 275.59 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 275.59 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 275.59 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f033c9ba-f5fd-4f66-9ec5-82ccf15806b1")
-		)
-		(instances
-			(project "ActivePrecharge RevB"
-				(path "/5b79bd62-039b-48b8-a776-6011f31800bf"
-					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -6523,6 +6272,99 @@
 			(project "ActivePrecharge RevB"
 				(path "/5b79bd62-039b-48b8-a776-6011f31800bf"
 					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 187.96 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "2031bf32-57dd-4549-b14f-2c7725bbe962")
+		(property "Reference" "TP12"
+			(at 185.42 27.1779 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "3v3"
+			(at 185.42 29.7179 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5005-5009_Compact"
+			(at 193.04 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 193.04 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 187.96 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 187.96 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" ""
+			(at 187.96 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" ""
+			(at 187.96 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "494ba932-d919-41cf-9505-50a755ac35f1")
+		)
+		(instances
+			(project "ActivePrecharge RevB"
+				(path "/5b79bd62-039b-48b8-a776-6011f31800bf"
+					(reference "TP12")
 					(unit 1)
 				)
 			)
@@ -10320,7 +10162,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ActivePrecharge-RevB:FUSE_3568"
+		(property "Footprint" "UTSVT-Power:HV-Fuse"
 			(at 43.18 58.928 90)
 			(effects
 				(font
@@ -13587,7 +13429,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ActivePrecharge-RevB:FUSE_3568"
+		(property "Footprint" "UTSVT-Power:HV-Fuse"
 			(at 43.18 33.528 90)
 			(effects
 				(font
@@ -14325,33 +14167,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x02_Pin")
-		(at 264.16 152.4 0)
+		(lib_id "Connector:TestPoint")
+		(at 187.96 44.45 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f560a855-341b-4cb3-a30c-4ecfab2f982a")
-		(property "Reference" "J7"
-			(at 264.795 147.32 0)
+		(uuid "fb0e517a-276c-4ee7-a20c-91dfae4e0f18")
+		(property "Reference" "TP13"
+			(at 189.992 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "Conn_01x02_Pin"
-			(at 264.795 149.86 0)
+		(property "Value" "GND"
+			(at 189.992 47.498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 264.16 152.4 0)
+		(property "Footprint" "TestPoint:TestPoint_Keystone_5005-5009_Compact"
+			(at 182.88 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14360,7 +14203,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 264.16 152.4 0)
+			(at 182.88 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14368,8 +14211,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 264.16 152.4 0)
+		(property "Description" "test point"
+			(at 187.96 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14378,7 +14221,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 264.16 152.4 0)
+			(at 187.96 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14387,7 +14230,7 @@
 			)
 		)
 		(property "Sim.Library" ""
-			(at 264.16 152.4 0)
+			(at 187.96 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14396,78 +14239,7 @@
 			)
 		)
 		(property "Sim.Name" ""
-			(at 264.16 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a9094aac-8fa2-4924-80fb-d9faf3f82c0d")
-		)
-		(pin "1"
-			(uuid "1561a773-1693-4003-afcd-bc2ebcf79610")
-		)
-		(instances
-			(project "ActivePrecharge RevB"
-				(path "/5b79bd62-039b-48b8-a776-6011f31800bf"
-					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 275.59 152.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fb6fe4ba-89e2-49ea-9228-9f5aa52d2c4b")
-		(property "Reference" "#PWR031"
-			(at 275.59 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3"
-			(at 275.59 147.32 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify top)
-			)
-		)
-		(property "Footprint" ""
-			(at 275.59 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 275.59 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 275.59 152.4 0)
+			(at 187.96 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14476,12 +14248,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "20ee5ad1-f32f-46b4-bfce-81b89efb0ef7")
+			(uuid "94cade83-0d71-43e1-bca0-b88ecf022553")
 		)
 		(instances
 			(project "ActivePrecharge RevB"
 				(path "/5b79bd62-039b-48b8-a776-6011f31800bf"
-					(reference "#PWR031")
+					(reference "TP13")
 					(unit 1)
 				)
 			)

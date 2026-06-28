@@ -29,3 +29,5 @@ fp-info-cache
 *.DS_Store
 
 ActivePrecharge-backups/*
+
+*.lck
